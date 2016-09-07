@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4726755
+  lightness: 0.7413381
+  brandStrength: 1
+  brandColors:
+    - '#5C6CA0'
+    - '#D09D82'
+    - '#3F2718'
+    - '#CDC6CE'
+    - '#805038'
+  rhythmicContrast: 0.08061216
+typography_spectrum: 0.635006
+name: Familia Blanco
